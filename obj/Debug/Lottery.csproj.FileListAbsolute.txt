@@ -1,0 +1,7 @@
+C:\Users\witmannz\gitWork\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\witmannz\gitWork\Lottery\bin\Debug\Lottery.exe
+C:\Users\witmannz\gitWork\Lottery\bin\Debug\Lottery.pdb
+C:\Users\witmannz\gitWork\Lottery\obj\Debug\Lottery.csproj.AssemblyReference.cache
+C:\Users\witmannz\gitWork\Lottery\obj\Debug\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\witmannz\gitWork\Lottery\obj\Debug\Lottery.exe
+C:\Users\witmannz\gitWork\Lottery\obj\Debug\Lottery.pdb
